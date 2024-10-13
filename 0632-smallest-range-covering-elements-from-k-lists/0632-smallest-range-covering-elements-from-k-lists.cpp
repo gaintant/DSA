@@ -11,7 +11,7 @@ public:
         int curMin= minVal, curMax = maxVal;
         vector<int> temp = pq.top();
         pq.pop();
-        while(!pq.empty() && nums[temp[1]].size() > temp[2]){
+        while( nums[temp[1]].size() > temp[2]){
             pq.push({nums[temp[1]][temp[2]], temp[1], temp[2] + 1});
             curMin = pq.top()[0];
             curMax = max(curMax, nums[temp[1]][temp[2]]);
