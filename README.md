@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/gaintant/DSA/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/gaintant/DSA/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/gaintant/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/gaintant/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gaintant/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gaintant/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/gaintant/DSA/tree/master/0729-my-calendar-i) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/gaintant/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gaintant/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/gaintant/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3291-find-if-array-can-be-sorted](https://github.com/gaintant/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
