@@ -10,9 +10,9 @@ public:
     int minimizedMaximum(int n, vector<int>& quantities) {
         long long l = 1, h = INT_MAX;
         long long mid = (l + h)/2;
-        while(l < h){
+        while(l <= h){
             if(count(quantities, mid) <= n)
-                h = mid;
+                h = mid - 1;
             else
                 l = mid + 1;
             mid = (l + h)/2;
