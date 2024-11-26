@@ -136,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/gaintant/DSA/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
