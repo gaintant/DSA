@@ -2,7 +2,7 @@ class Solution {
 public:
     long long cal(vector<int> &nums, int mid){
         long long ans = 0;
-        for(auto num : nums){
+        for(auto &num : nums){
             ans += (num-1) /mid;
         }
         return ans;
