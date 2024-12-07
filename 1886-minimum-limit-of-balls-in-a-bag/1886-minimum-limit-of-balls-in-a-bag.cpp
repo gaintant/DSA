@@ -8,10 +8,12 @@ public:
         return ans;
     }
     int minimumSize(vector<int>& nums, int maxOperations) {
-        int l = 1, h = 1e9;
+        int l = 1, h = -1;
+        for(auto num : nums){
+            h = max(h, num);
+        }
         while(l < h){
             int mid = (l +h) >> 1;
-            // cout<<mid<<" "<<cal(nums, mid)<<endl;
             if(cal(nums, mid) <= maxOperations)
                 h = mid;
             else
