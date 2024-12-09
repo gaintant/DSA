@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/gaintant/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/gaintant/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gaintant/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/gaintant/DSA/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gaintant/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gaintant/DSA/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Hash Table
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gaintant/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gaintant/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/gaintant/DSA/tree/master/3427-special-array-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gaintant/DSA/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Design
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/gaintant/DSA/tree/master/3427-special-array-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gaintant/DSA/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Sliding Window
 |  |
