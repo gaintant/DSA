@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gaintant/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gaintant/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/gaintant/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gaintant/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/gaintant/DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gaintant/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/gaintant/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -186,4 +188,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/gaintant/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/gaintant/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
