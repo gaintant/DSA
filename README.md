@@ -189,4 +189,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/gaintant/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/gaintant/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gaintant/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gaintant/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gaintant/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
