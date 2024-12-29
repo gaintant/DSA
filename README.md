@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/gaintant/DSA/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/gaintant/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gaintant/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/gaintant/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/gaintant/DSA/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/gaintant/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gaintant/DSA/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/gaintant/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/gaintant/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gaintant/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/gaintant/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0494-target-sum](https://github.com/gaintant/DSA/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/gaintant/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/gaintant/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/gaintant/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
