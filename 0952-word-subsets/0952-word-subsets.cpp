@@ -18,7 +18,7 @@ public:
             }
             bool toAdd = true;
             for(int i=0; i<26; i++){
-                toAdd = toAdd & (c[i] >= store[i]);
+                if(c[i] < store[i]){toAdd = false; break;};
             }
             if(toAdd) ans.push_back(word);
         }
