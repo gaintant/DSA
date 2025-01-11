@@ -1,14 +1,15 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
+        if(s.size() < k)
+            return false;
         vector<int> arr(26, 0);
         for(auto ch: s){
             arr[ch-'a']++;
         }
-        int c = 0;
         for(auto i : arr){
-            if(i%2 == 1)c++;
+            if(i%2 == 1)k--;
         }
-        return c <= k && s.size() >= k;
+        return k >=0;
     }
 };
