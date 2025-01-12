@@ -5,7 +5,7 @@ public:
             return false;
         int n=s.size(), c=0;
         for(int i=0; i<n; i++){
-            if(s[i] == ')' && locked[i] == '1'){
+            if(locked[i] == '1' && s[i] == ')' ){
                 c++;
                 if(c > (i+1)/2)
                     return false;
@@ -13,7 +13,7 @@ public:
         }
         c=0;
         for(int i=n-1; i>=0; i--){
-            if(s[i] == '(' && locked[i] == '1'){
+            if(locked[i] == '1' && s[i] == '('){
                 c++;
                 if(c > (n - i)/2)
                     return false;
