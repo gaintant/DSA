@@ -7,9 +7,8 @@ public:
             arr[ch -'a']++;
         }
         for(auto v : arr){
-            if(v == 0)
-                continue;
-            ans += ((v%2 == 1)? 1 : 2);
+            if(v != 0)
+                ans += ((v%2 == 1)? 1 : 2);
         }
         return ans;
     }
