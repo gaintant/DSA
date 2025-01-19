@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gaintant/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/gaintant/DSA/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gaintant/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/gaintant/DSA/tree/master/0729-my-calendar-i) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gaintant/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gaintant/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gaintant/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gaintant/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gaintant/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gaintant/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/gaintant/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gaintant/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gaintant/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
