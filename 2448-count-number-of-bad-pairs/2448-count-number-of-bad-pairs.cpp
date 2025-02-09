@@ -5,8 +5,8 @@ public:
         long long n = nums.size();
         long long ans = 0;
         for(int i=0; i<n; i++){
-            ans += mp[nums[i] - i];
-            mp[nums[i] - i]++;
+            ans += mp[nums[i] - i]++;
+            // mp[nums[i] - i]++;
         }
         return n*(n-1)/2 - ans;
     }
