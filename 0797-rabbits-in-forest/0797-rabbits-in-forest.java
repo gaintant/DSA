@@ -3,8 +3,7 @@ class Solution {
         int n = answers.length;
         Map<Integer,Integer> mp = new HashMap();
         for(int i=0; i<n; i++){
-            mp.computeIfAbsent(answers[i], k -> 0);
-            mp.put(answers[i], mp.get(answers[i]) + 1);
+            mp.put(answers[i], mp.getOrDefault(answers[i], 0) + 1);
         }
         int ans = 0;
         for(Map.Entry<Integer, Integer> m: mp.entrySet()){
