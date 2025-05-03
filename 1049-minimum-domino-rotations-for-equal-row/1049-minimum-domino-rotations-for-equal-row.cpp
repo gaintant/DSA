@@ -9,7 +9,6 @@ public:
             if(tops[i] == bottoms[0] || bottoms[i] == bottoms[0])
                 bc++;
         }
-        cout<<tc<<" "<<bc;
         if(tc == n){
             int c1 = n, c2 = n;
             for(auto top : tops)
