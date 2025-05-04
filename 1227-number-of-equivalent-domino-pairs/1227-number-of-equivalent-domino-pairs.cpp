@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
-        map<int, int> mp;
+        vector<int> mp(100);
         int ans = 0, l , h;
         for(auto dominoe : dominoes){
             l = min(dominoe[0], dominoe[1]);
