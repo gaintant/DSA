@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/gaintant/DSA/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gaintant/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/gaintant/DSA/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gaintant/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/gaintant/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gaintant/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gaintant/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/gaintant/DSA/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gaintant/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gaintant/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/gaintant/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
