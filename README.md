@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gaintant/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gaintant/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaintant/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/gaintant/DSA/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaintant/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gaintant/DSA/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/gaintant/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/gaintant/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gaintant/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gaintant/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaintant/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/gaintant/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gaintant/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Number Theory
 |  |
 | ------- |
