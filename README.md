@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/gaintant/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gaintant/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/gaintant/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Number Theory
 |  |
