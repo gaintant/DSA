@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gaintant/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gaintant/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3189-find-champion-ii](https://github.com/gaintant/DSA/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gaintant/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gaintant/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/gaintant/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/gaintant/DSA/tree/master/1396-count-servers-that-communicate) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/gaintant/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gaintant/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/gaintant/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
