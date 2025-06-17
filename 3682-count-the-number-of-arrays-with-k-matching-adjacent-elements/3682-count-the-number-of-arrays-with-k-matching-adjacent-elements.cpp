@@ -29,16 +29,16 @@ public:
     }
 
     int countGoodArrays(int n, int m, int k) {
-        int mod = 1e9 + 7;
         if(m == 1){
             if(n == k +1)
                 return 1;
             else
                 return 0;
         }
+        int mod = 1e9 + 7;
         long long ans = m;
         ans = (ans *modPow((long long)m-1, (long long)n - k - 1,(long long) mod))%mod;
         ans = (ans *nCk(n-1, k, mod))%mod;
-        return ans;    
+        return ans;
     }
 };
