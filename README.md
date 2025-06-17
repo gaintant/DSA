@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/gaintant/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gaintant/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gaintant/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaintant/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/gaintant/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
