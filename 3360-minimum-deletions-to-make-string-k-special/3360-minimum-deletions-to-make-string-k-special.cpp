@@ -6,10 +6,10 @@ public:
             freq[ch - 'a']++;
         }
         sort(freq.begin(), freq.end());
-        for(auto ch : freq)
-            cout<<ch<<" ";
         int ans = INT_MAX;
         for(int i=0; i<26; i++){
+            // if(i == 0)
+            //     continue;
             int val = freq[i] + k,p = 0 ;
             for(int j=0; j<26; j++){
                 if(freq[j] == 0)
