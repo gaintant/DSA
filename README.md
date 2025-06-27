@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/gaintant/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gaintant/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gaintant/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/gaintant/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaintant/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/gaintant/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gaintant/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/gaintant/DSA/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/gaintant/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaintant/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/gaintant/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gaintant/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaintant/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gaintant/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/gaintant/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/gaintant/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gaintant/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/gaintant/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/gaintant/DSA/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gaintant/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -388,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0494-target-sum](https://github.com/gaintant/DSA/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaintant/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/gaintant/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -430,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/gaintant/DSA/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gaintant/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/gaintant/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Queue
 |  |
 | ------- |
