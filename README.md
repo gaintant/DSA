@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/gaintant/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gaintant/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaintant/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/gaintant/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gaintant/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/gaintant/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/gaintant/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gaintant/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/gaintant/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaintant/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gaintant/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/gaintant/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/gaintant/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gaintant/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/gaintant/DSA/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaintant/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gaintant/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gaintant/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gaintant/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gaintant/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/gaintant/DSA/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gaintant/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/gaintant/DSA/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gaintant/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gaintant/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
