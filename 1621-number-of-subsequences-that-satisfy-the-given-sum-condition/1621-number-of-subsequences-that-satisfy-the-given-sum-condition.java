@@ -1,14 +1,15 @@
 class Solution {
     int mod = 1000000007;
     long pow(int i){
-        if(i == 0)
-            return 1;
-        long c = pow(i/2);
-        if(i%2 == 1)
-            return ( c*c*2)%mod;
-        else    
-            return (c*c)%mod;
-
+        long ans = 1;
+        long curr = 2;
+        while(i != 0){
+            if(i%2 == 1)
+                ans = (ans*curr)%mod;
+            curr = (curr*curr)%mod;
+            i /=2;
+        }
+        return ans;
     }
     public int numSubseq(int[] nums, int target) {
         Arrays.sort(nums);
