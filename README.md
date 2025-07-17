@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gaintant/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/gaintant/DSA/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gaintant/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gaintant/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gaintant/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gaintant/DSA/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/gaintant/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/gaintant/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/gaintant/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/gaintant/DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/gaintant/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/gaintant/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
